@@ -1,0 +1,23 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "Viajes",
+    "collectionId": "be22ddc0-0738-4b61-b08a-ce9f4a3b2477",
+    "dateExported": "2025-04-19T21:04:14.007Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "f4d40b17-d501-45b9-9b05-b9a662518a86",
+            "colId": "be22ddc0-0738-4b61-b08a-ce9f4a3b2477",
+            "containerId": "",
+            "name": "http://localhost:3000/viajes",
+            "url": "http://localhost:3000/viajes",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2025-04-19T21:03:41.379Z",
+            "modified": "2025-04-19T21:03:41.379Z",
+            "headers": []
+        }
+    ],
+    "ref": "5YzLtgXvZwdCZ8sRGYg-7X0-jcqC64wRnJTAbo7ikxD-iWR0oT38DR7GDXj-A8NrPzseaTQZRWN4t0jF-8Frqg"
+}
